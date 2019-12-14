@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class TacoCloudApplicationTests {
 
-	@DisplayName("context load")
+	@DisplayName("context load.")
 	@Test
 	void contextLoads() {
 	}
